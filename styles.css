@@ -51,3 +51,7 @@ th, td {
         width: auto;
         margin-left:-30px;
 }
+
+.300-px-wide {
+    width: 300px;
+}
