@@ -55,3 +55,7 @@ th, td {
 .100-px-wide {
     width: 100px;
 }
+
+.carousel-inner > .item {
+   height: 400px;
+}
